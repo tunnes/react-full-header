@@ -52,6 +52,8 @@
     "babel-preset-airbnb": "^2.0.0",
     "babel-register": "^6.24.1",
     "chai": "^3.5.0",
+    "chai-enzyme": "^1.0.0-beta.0",
+    "cheerio": "^1.0.0-rc.2",
     "enzyme": "^3.0.0",
     "enzyme-adapter-react-16": "^1.0.0",
     "eslint": "^2.13.1",
@@ -69,7 +71,8 @@
     "sinon": "^1.17.4",
     "sinon-chai": "^2.8.0",
     "style-loader": "^0.13.1",
-    "uglify-js": "^2.7.0"
+    "uglify-js": "^2.7.0",
+    "webpack": "^3.10.0"
   },
   "dependencies": {
     "prop-types": "^15.5.10",
